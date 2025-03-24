@@ -27,7 +27,7 @@ I'm a passionate Data Engineer with a flair for transforming raw data into actio
 ### 🔭 Recent Projects
 
 - **IMDB Movies Data Analysis:** Utilizing Alteryx, Talend, and visualization tools for comprehensive data insights.
-- **Data-Driven Ride-Hailing Efficiency:** Analyzing fare dynamics to optimize ride-sharing services.
+- **Data-Driven Ride-Hailing Efficiency:** Data-driven Food Delivery Management System.
 
 ### 📚 Education
 
